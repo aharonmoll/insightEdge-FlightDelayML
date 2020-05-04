@@ -9,6 +9,3 @@
 Please follow all steps as appear:<br>
 https://docs.gigaspaces.com/latest/orchestration/gsctl-create-gs-cluster-cloud.html
 
-**Note:**<br>
-Please download the gsctl.jar from here and not from the above page:<br>
-https://amoll.s3-eu-west-1.amazonaws.com/GigaSpaces/gsctl.jar
