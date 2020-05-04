@@ -29,7 +29,7 @@ Please perform the following steps:
 10. Continue running the kafka streaming paragraph.
 11. Verify you have new FlightDelaysWithWeather where year=2019 and prediction = 'for_calc'
 12. Read the Flights data from the memory grid and run our model prediction on it.
-13. Run remaining zeppelin paragraph.<br>
+13. Run the remaining zeppelin paragraphs.<br>
 14. Last paragraph view should look something like:<br>
     ![snapshot](Pictures/Picture5.png)
 15. You are done with the lab!!!
