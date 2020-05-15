@@ -10,7 +10,7 @@ Before starting the lab please read [Managing the GigaSpaces Product Version](ht
 
 Please perform the following steps:
 
-1. Create insightedge gsctl cluster<br>
+1. Create InsightEdge product gsctl cluster<br>
    ![snapshot](Pictures/Picture1_ie.png)<br>
 2. Change artifact-repo to https://amoll.s3-eu-west-1.amazonaws.com/Services<br>
    ![snapshot](Pictures/Picture2_ie.png)<br>
