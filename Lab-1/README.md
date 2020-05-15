@@ -60,6 +60,7 @@ By default, the utility creates all the resources from the credentials and confi
     `create`<br>
 The cloud platform begins to create the cluster:<br>
 ![snapshot](Pictures/Picture2.png)
+
 You can monitor the progress of the cluster in your cloud platform dashboard in AWS:<br>
 The process of creating the cluster takes only a few minutes until the nodes are up and running.<br>
 You can see when the Master (server) nodes and Worker (client) nodes are running and have passed the status checks.<br>
