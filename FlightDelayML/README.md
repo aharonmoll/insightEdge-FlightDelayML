@@ -27,7 +27,7 @@ Please perform the following steps:
    * https://archive.apache.org/dist/kafka/0.11.0.0/kafka_2.12-0.11.0.0.tgz
    * tar zxvf kafka_2.12-0.11.0.0.tgz
    * ~/kafka_2.12-0.11.0.0/bin/kafka-server-start.sh ../config/server.properties 
-   * In a new session run:
+   * In a new session run:<br>
    ~/kafka_2.12-0.11.0.0/bin/kafka-console-consumer.sh --topic flights --zookeeper localhost:2181 
    
 8. Deploy flights_feeder:<br>
